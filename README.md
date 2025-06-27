@@ -18,5 +18,7 @@
   - in ML4/p1
 - video input handling using opencv
   - in ML4/p2
+- emotion and age detector
+  - in ML5
 
 []
